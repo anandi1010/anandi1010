@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Anandi Singh  
+Hi, I’m Anandi Singh  
 
-🌎 **Location:** Chicago, IL / Naperville, IL  
-📧 **Email:** [anandi1010singh@gmail.com](mailto:anandi1010singh@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/anandi-singh-11159b162](https://linkedin.com/in/anandi-singh-11159b162)  
+ **Location:** Chicago, IL / Naperville, IL  
+ **Email:** [anandi1010singh@gmail.com](mailto:anandi1010singh@gmail.com)  
+**LinkedIn:** [linkedin.com/in/anandi-singh-11159b162](https://linkedin.com/in/anandi-singh-11159b162)  
 
 ---
 
@@ -13,7 +13,7 @@ I’m passionate about **coding, building data-driven solutions, and exploring n
 
 ---
 
-## 💻 Technical Skills  
+## Technical Skills  
 - **Programming:** Python, SQL, Pandas, NumPy, NLP  
 - **Visualization:** Tableau, Power BI  
 - **Tools & Platforms:** ETL pipelines, Salesforce, ServiceNow, Agile (Confluence, Asana)  
@@ -21,14 +21,14 @@ I’m passionate about **coding, building data-driven solutions, and exploring n
 
 ---
 
-## 🌱 What I’m Learning  
+##  What I’m Learning  
 - React Native for mobile application development  
 - Advanced data pipeline optimization  
 - AI-driven automation tools  
 
 ---
 
-## 📈 Professional Highlights  
+## Professional Highlights  
 - **Teaching & Mentorship:** Supporting 1000+ learners as a Course Assistant & TA for MBA programs.  
 - **Process Automation:** Built 7+ automation projects at **Ericsson**, improving efficiency by **35%** and reducing manual work by **40+ hours/month**.  
 - **Data-Driven Insights:** Designed and deployed data models, ETL pipelines, and analytics dashboards that drove actionable insights and improvements.  
@@ -36,10 +36,10 @@ I’m passionate about **coding, building data-driven solutions, and exploring n
 
 ---
 
-## 📫 Let’s Connect  
-💌 **Email:** [anandi1010singh@gmail.com](mailto:anandi1010singh@gmail.com)  
+##  Let’s Connect  
+**Email:** [anandi1010singh@gmail.com](mailto:anandi1010singh@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/anandi-singh-11159b162](https://linkedin.com/in/anandi-singh-11159b162)
 
 ---
 
-⭐️ *Feel free to explore my repositories for projects in data analytics, automation, and mobile app development.*
+*Feel free to explore my repositories for projects in data analytics, automation, and mobile app development.*
